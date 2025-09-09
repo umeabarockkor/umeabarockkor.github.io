@@ -2,6 +2,8 @@
 
 source "https://rubygems.org"
 
+gem "jekyll", "~> 3.9"
+
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
 platforms :mingw, :x64_mingw, :mswin, :jruby do
@@ -14,3 +16,11 @@ gem "wdm", "~> 0.1", :platforms => [:mingw, :x64_mingw, :mswin]
   
 gemspec
 
+
+gem "webrick", "~> 1.8"
+
+gem "base64", "~> 0.3.0"
+
+gem "bigdecimal", "~> 3.2"
+
+gem "erb", "~> 5.0"

@@ -54,7 +54,7 @@ p {
 }
 h1,h2,h3,h4,h5,h6 {
   font-family: var(--header-font);
-  font-weight: 800;
+  font-weight: 400;
   line-height: 1.1;
 }
 h1 {
@@ -217,7 +217,7 @@ img {
 
 .navbar-custom .navbar-brand,
 .navbar-custom .navbar-nav .nav-link {
-  font-weight: 800;
+  font-weight: 500;
   color: var(--navbar-text-col);
 }
 
@@ -440,10 +440,7 @@ footer a:focus {
 footer .list-inline {
   margin: 0;
   padding: 0;
-  margin-bottom: 1.375rem;
-}
-footer .list-inline .list-inline-item {
-  margin-bottom: 0.5rem;
+  margin-bottom: 1.875rem;
 }
 footer .copyright {
   font-family: var(--header-font);
@@ -680,6 +677,7 @@ footer .footer-custom-content {
   -o-background-size: cover;
   margin-top: 3.1875rem; /* The small navbar is 50px tall + 1px border */
   margin-bottom: 2.1875rem;
+  /* filter: brightness(50%); */
 }
 nav.top-nav-short-permanent ~ header > .intro-header {
   margin-top: 5rem;
@@ -834,8 +832,6 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
 
 table {
   padding: 0;
-  overflow-x: auto;
-  display: block;
 }
 table tr {
   border-top: 1px solid #cccccc;
@@ -942,6 +938,10 @@ pre {
 #social-share-section {
   margin-bottom: 1.875rem;
   margin-top: 1.875rem;
+}
+
+#social-share-section a {
+  color: #fff;
 }
 
 /* --- Notification boxes --- */
