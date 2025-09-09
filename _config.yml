@@ -20,7 +20,9 @@ author: Umeå Barockkör
 ###############################################
 
 navbar-links:
+  Hem: "index"
   Om oss: "omoss"
+  Uppträdanden: "shows"
   Kontakt: "kontakt"
   # Resources:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
