@@ -1,31 +1,20 @@
 ---
 layout: page
-title: Om barockkören
-subtitle: Vi är ju riktigt bra
-cover-img: assets/img/ubk-omoss.jpg
+title: Om oss
+subtitle: Vi är en kör med passion för barock
+cover-img: assets/img/ubk-omoss-darker.jpg
 ---
 
-# Historik och vision
+# Historik
 
-![koren](/assets/img/ubk-group.jpg)
+Umeå Barockkör är en ambitiös kör av sångare med passion för barockmusik. Vi framför musik från renässansen till romantiken och ibland med teatrala inslag.
 
-Kören har en bred historia och en episk vision...
+Vi har sjungt stycken av ... och ...
 
-Non rerum libero sunt voluptatem adipisci quasi. Rerum eos est distinctio laudantium aspernatur ut ut. Et odit repellat repudiandae quia. Veritatis voluptates rerum in voluptatum ullam alias. Quis aspernatur exercitationem non occaecati.
-
-Expedita exercitationem aut fugiat. Necessitatibus eveniet aut iste est libero quasi id. Qui omnis ratione nihil velit. Odit consequuntur est dolorem facilis explicabo hic sed natus. Rem nisi corporis et quod corrupti.
-
-> Totam ab qui aut saepe voluptates dignissimos. Necessitatibus reprehenderit quasi quam adipisci minima. Omnis architecto alias quia sed. Atque voluptatem nostrum mollitia sapiente. Hic quasi et inventore ducimus voluptatem. Delectus a molestias eveniet illum dolore sint repellendus.
+Framträdandena har involverat bland annat ... och ...!
 
 # Vår ledare
 
 ![ester](/assets/img/ubk-omoss.jpg)
 
-Sed magni est consequatur. Cum quibusdam modi id suscipit molestiae placeat dolorem omnis. Quam exercitationem sunt qui. Reiciendis aspernatur magni itaque esse.
-
-Eveniet consequatur reiciendis natus odio. Nesciunt harum quasi nihil odio cupiditate ut officia. Laudantium repellat illo placeat omnis repellat. Repellat excepturi ipsa aperiam perspiciatis aliquid sed placeat delectus. Quia alias vitae et ut sapiente ab aut. Repellendus aliquam voluptas qui nemo.
-
-# Stämmorna
-
-Eveniet consequatur reiciendis natus odio. Nesciunt harum quasi nihil odio cupiditate ut officia. Laudantium repellat illo placeat omnis repellat. Repellat excepturi ipsa aperiam perspiciatis aliquid sed placeat delectus. Quia alias vitae et ut sapiente ab aut. Repellendus aliquam voluptas qui nemo.
-
+Körledare Esther von Schoenberg är en klassisk sångerska och sångpedagog specialiserad på barock. Hon har mångårig erfarenhet av ... och ...

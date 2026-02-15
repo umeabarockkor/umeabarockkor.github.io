@@ -2,19 +2,9 @@
 layout: page
 title: Kontakt
 subtitle: Kom och sjung med oss!
-cover-img: assets/img/ubk-kontakt.jpg
+cover-img: assets/img/ubk-kontakt-darker.jpg
 ---
 
-# Det här blir kul tror jag
+Om du vill sjunga med oss kan du fylla i formuläret nedan. Vi kontaktar dig sedan med information ...
 
-Non rerum libero sunt voluptatem adipisci quasi. Rerum eos est distinctio laudantium aspernatur ut ut. Et odit repellat repudiandae quia. Veritatis voluptates rerum in voluptatum ullam alias. Quis aspernatur exercitationem non occaecati.
-
-Expedita exercitationem aut fugiat. Necessitatibus eveniet aut iste est libero quasi id. Qui omnis ratione nihil velit. Odit consequuntur est dolorem facilis explicabo hic sed natus. Rem nisi corporis et quod corrupti.
-
-> Totam ab qui aut saepe voluptates dignissimos. Necessitatibus reprehenderit quasi quam adipisci minima. Omnis architecto alias quia sed. Atque voluptatem nostrum mollitia sapiente. Hic quasi et inventore ducimus voluptatem. Delectus a molestias eveniet illum dolore sint repellendus.
-
-## Kontakta oss här
-
-[Här kan du klicka!](mailto:kalle@kallesson.se)
-
-Emailadresser... formulär...
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeN_ytPV288WmUWcnxJIUd_rtOxsDCKNcgRU22J4qOOW3sPfw/viewform?embedded=true" width="640" height="848" frameborder="0" marginheight="0" marginwidth="0">Läser in …</iframe>

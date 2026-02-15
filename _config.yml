@@ -22,7 +22,7 @@ author: Umeå Barockkör
 navbar-links:
   Hem: "index"
   Om oss: "omoss"
-  Uppträdanden: "shows"
+  Arkiv: "arkiv"
   Kontakt: "kontakt"
   # Resources:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
@@ -88,7 +88,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+rss-description: Detta är ett RSS-flöde av barockkörens händelser
 
 ###########################
 # --- General options --- #
@@ -129,7 +129,7 @@ edit_page_button: false
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+keywords: "kör,umeå,barock,esther von schoenenberg,klassiskt,sång"
 
 ######################################
 # --- Colours / background image --- #
@@ -262,6 +262,7 @@ date_format: "%B %-d, %Y"
 
 # Output options (more information on Jekyll's site)
 timezone: "Europe/Stockholm"
+locale: "sv-SE"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
@@ -272,16 +273,14 @@ kramdown:
 
 # Default YAML values (more information on Jekyll's site)
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
       type: "posts"
     values:
       layout: "post"
-      comments: true  # add comments to all blog posts
-      social-share: true # add social media sharing buttons to all blog posts
-  -
-    scope:
+      comments: false  # add comments to all blog posts
+      social-share: false # add social media sharing buttons to all blog posts
+  - scope:
       path: "" # any file that's not a post will be a "page" layout by default
     values:
       layout: "page"
